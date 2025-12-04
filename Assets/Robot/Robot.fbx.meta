@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: 203cc172991228a44983d05d8730b4c2
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cinta_Metalico_d
+    second: {fileID: 2100000, guid: 89a16dbe16ddbb949a4bdda41e811415, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cinta_Metalico_i
+    second: {fileID: 2100000, guid: ecebb0614d9988647ac97e60126dd966, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cinta_turing
+    second: {fileID: 2100000, guid: c94a3114f40261e49b442d8f1688abe7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cinta_turing_d
+    second: {fileID: 2100000, guid: 866977dde3e38fb4db3b6e6b04ab90cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cinta_turing_i
+    second: {fileID: 2100000, guid: 840bd77e1b0b19547b929611f06d70f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: L.brazo_Metalico.002
+    second: {fileID: 2100000, guid: bf645b95d619d36419ebb1d5df2f96e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: L.dedos_Metalico
+    second: {fileID: 2100000, guid: bae7895c3800cc64d933290ff15d7b61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: L.mano_Metalico.002
+    second: {fileID: 2100000, guid: 0858b788c6edeb4419f0733a568b542d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: L.pie_Metalico.002
+    second: {fileID: 2100000, guid: a63e7f8a7663bc04bbc0dfd22710a304, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: L.pierna.001_Metalico.002
+    second: {fileID: 2100000, guid: b3640b66273db234b9634f7160e0c388, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: L.rodillera_Metalico.002
+    second: {fileID: 2100000, guid: caa2a9da33a6d394fb3ee6c72a75fc67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Mu\xF1eca_brazalete"
+    second: {fileID: 2100000, guid: c877b525b6bdaa1438e57dbbdbb0f0b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: R.carrete_Metalico.003
+    second: {fileID: 2100000, guid: c59c9341b7c16304bbf3ac8903747632, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: antena_turing_Metalico.003
+    second: {fileID: 2100000, guid: c3bb33b1caa998b4eab6227543ddf1b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: articulacion_piernas_Metalico.003
+    second: {fileID: 2100000, guid: e797bee2d4f98fe4d9aa14259d685508, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cabeza_full_Metalico
+    second: {fileID: 2100000, guid: ddfd7f0de0c93144b8664669edf06d27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cadera_dos_Metalico.002
+    second: {fileID: 2100000, guid: 7b032d3e32dfd204b99971fd8b7be05e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cadera_uno_Metalico.002
+    second: {fileID: 2100000, guid: f67cb4acc2286154b897eb9f267b3c3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cuello_Metalico.002
+    second: {fileID: 2100000, guid: a5685a4bdc8c9a1429470a2ae1bef189, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cupula_Metalico.003
+    second: {fileID: 2100000, guid: 0aa5e5e365753074a8c9554364e16e27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: espalda_pecho_Metalico.002
+    second: {fileID: 2100000, guid: 892b179b0df7bcb47a712c1255de0376, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ojos_Metalico.003
+    second: {fileID: 2100000, guid: 46afc1d32cae29f44834e17ba48a6cc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orejas_Metalico.003
+    second: {fileID: 2100000, guid: 94123d04f0fc3b841acc724bdf6f0a19, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: antena_uv_Map
+    second: {fileID: 2800000, guid: 44c44ca6f590c014ca5ba10bc6b34d32, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cinta_derecha_uv_Map
+    second: {fileID: 2800000, guid: 80193b8159bd73f45997887e8024dd67, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cinta_izquierda_uv_Map
+    second: {fileID: 2800000, guid: 10a06bf7d1a85b94e8824bf439e5d470, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: espalda_UV_Map
+    second: {fileID: 2800000, guid: 90d3f0e7826a27a419f8f517898cd6cb, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 0
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: caminar
+      takeName: Esqueleto|caminar
+      internalID: -7149987404728954518
+      firstFrame: 1
+      lastFrame: 13
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: saludar
+      takeName: Esqueleto|saludar
+      internalID: 3417415979602777158
+      firstFrame: 1
+      lastFrame: 7
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Robot(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robot
+      parentName: Robot(Clone)
+      position: {x: -0.003086579, y: 0.013039768, z: 0.0809747}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto
+      parentName: Robot(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hueso
+      parentName: Esqueleto
+      position: {x: -0.0039355876, y: -0.048412085, z: 0.89329237}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hueso.002
+      parentName: Hueso
+      position: {x: -0, y: 0.4323936, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hueso.002_end
+      parentName: Hueso.002
+      position: {x: -0, y: 0.40424514, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hueso.006.L
+      parentName: Hueso
+      position: {x: -0, y: 0.4323936, z: 0}
+      rotation: {x: 0.000000015454312, y: -0.00000001545431, z: 0.7071068, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hueso.008.L
+      parentName: Hueso.006.L
+      position: {x: 0.0000000021161595, y: 0.590333, z: 0.0000000016570709}
+      rotation: {x: -0.000000037930768, y: 0.000000068839384, z: 0.7071068, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hueso.008.L.001.L
+      parentName: Hueso.008.L
+      position: {x: -0.000000007310021, y: 0.5277812, z: 3.250804e-10}
+      rotation: {x: 0.00000016490775, y: 0.000000118717445, z: -0.60529405, w: 0.796002}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hueso.008.L.001.L_end
+      parentName: Hueso.008.L.001.L
+      position: {x: -0, y: 0.121534705, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hueso.006.R
+      parentName: Hueso
+      position: {x: -0, y: 0.4323936, z: 0}
+      rotation: {x: 0.000000015454312, y: 0.00000001545431, z: -0.7071068, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hueso.008.R
+      parentName: Hueso.006.R
+      position: {x: -0.0000000021161595, y: 0.590333, z: 0.0000000016570709}
+      rotation: {x: 0.00021701692, y: 0.0015938879, z: -0.13493043, w: 0.9908538}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Hueso.008.L.001.R
+      parentName: Hueso.008.R
+      position: {x: 5.2386895e-10, y: 0.5277839, z: 0.000000003587047}
+      rotation: {x: -0.00015833405, y: -0.0016009373, z: 0.0984367, w: 0.99514204}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hueso.008.L.001.R_end
+      parentName: Hueso.008.L.001.R
+      position: {x: -0, y: 0.121534705, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hueso.001.L
+      parentName: Esqueleto
+      position: {x: -0.0039355876, y: -0.04275596, z: 0.89329237}
+      rotation: {x: -0.42730907, y: -0.43693554, z: 0.56538695, w: 0.5539241}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hueso.010
+      parentName: Hueso.001.L
+      position: {x: 0.000000003768946, y: 0.19801511, z: -0.000000027823262}
+      rotation: {x: 0.2285616, y: 0.24510482, z: 0.037297275, w: -0.941431}
+      scale: {x: 0.9999999, y: 1, z: 1.000001}
+    - name: Hueso.010_end
+      parentName: Hueso.010
+      position: {x: -0, y: 0.0056295395, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hueso.011.L
+      parentName: Hueso.001.L
+      position: {x: 0.000000003768946, y: 0.19801511, z: -0.000000027823262}
+      rotation: {x: -0.5550621, y: -0.00012881249, z: 0.00033243798, w: 0.83180887}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999998}
+    - name: Hueso.011.L_end
+      parentName: Hueso.011.L
+      position: {x: -0, y: 0.7647168, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hueso.001.R
+      parentName: Esqueleto
+      position: {x: -0.0039355876, y: -0.04275596, z: 0.89329237}
+      rotation: {x: -0.13930029, y: 0.14252985, z: -0.7003765, w: 0.68538564}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hueso.011.R
+      parentName: Hueso.001.R
+      position: {x: -0.000000006330083, y: 0.19801512, z: -0.00000009487849}
+      rotation: {x: -0.5550621, y: 0.00012881303, z: -0.00033243798, w: 0.83180887}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999999}
+    - name: Hueso.011.R_end
+      parentName: Hueso.011.R
+      position: {x: -0, y: 0.7647168, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - btn_pozol
+  - btn_jamaica
+  - btn_tamarindo
+  - btn_limonada
+  - btn_naranja
+  - btn_tascalate
+  - btn_sandia
+  - btn_fresa
+  - Coin_10
+  - fila-1-1
+  - fila-2-2
+  - fila-3-1
+  - fila-2-3
+  - fila-3-3
+  - fila-1-2
+  - fila-2-1
+  - fila-3-2
+  - fila-1-3
+  - Coin_5
+  - boquilla_monedero
+  - btn_pina
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
