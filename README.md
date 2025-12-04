@@ -23,3 +23,7 @@ Para ejecutar este proyecto, necesitarás:
 2.  Abrir el proyecto con una versión compatible de Unity.
 3.  Asegurarte de que el SDK de PICO para Unity esté correctamente configurado en el proyecto.
 4.  Construir y ejecutar la escena principal `Game.unity` en un dispositivo PICO.
+
+## Demo y Video
+Puedes ver una demostración en del juego en nuestro canal de YouTube:
+[▶️ Ver el Tráiler Oficial de Turing Bot](https://youtu.be/xOLFvd0n8RA?si=Fhzry8yPJg5RnXo-)
