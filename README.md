@@ -8,7 +8,7 @@ El proyecto simula una máquina expendedora en un entorno de Realidad Virtual. E
 
 El núcleo del juego es un modelo 3D de un autómata finito que reacciona a las monedas insertadas. Cada vez que el jugador añade una moneda, el autómata transita visiblemente a un nuevo estado (de q0 a q1, q2, etc.), mostrando al jugador cómo una entrada afecta el estado de la máquina.
 
-Cuando el valor total insertado alcanza un "estado de aceptación" (por ejemplo, 20), la máquina expendedora dispensa una botella que el jugador puede coger, completando el ciclo y proporcionando una recompensa tangible por haber completado la secuencia correcta de entradas.
+Cuando el valor total insertado alcanza un "estado de aceptación" (por ejemplo, 20), la máquina expendedora dispensa una botella que el jugador puede coger, completando el ciclo.
 
 ## Tecnología Utilizada
 
