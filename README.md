@@ -27,3 +27,20 @@ Para ejecutar este proyecto, necesitarás:
 ## Demo y Video
 Puedes ver una demostración en del juego en nuestro canal de YouTube:
 [▶️ Ver el Tráiler Oficial de Turing Bot](https://youtu.be/xOLFvd0n8RA?si=Fhzry8yPJg5RnXo-)
+
+👥 Créditos y Contribuciones
+Este proyecto de Realidad Virtual fue desarrollado por un equipo con los siguientes roles:
+
+Modelado 3D
+Fernando Cruz
+
+Creación de todos los modelos 3D base (Autómata Finito, Máquina Expendedora, etc.) utilizando Blender.
+
+Animación, Integración y Desarrollo VR
+Erwin Santiago
+
+Exportación y preparación de los modelos 3D al formato FBX.
+
+Maquetado, acomodamiento y diseño de todas las Escenas en Unity.
+
+Toda la Programación en C# para la lógica del Autómata Finito y la interacción del jugador en la plataforma PICO.
